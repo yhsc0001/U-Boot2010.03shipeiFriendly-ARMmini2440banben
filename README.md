@@ -1,0 +1,1 @@
+# U-Boot2010.03shipeiFriendly-ARMmini2440banben
